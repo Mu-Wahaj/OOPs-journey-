@@ -2,10 +2,12 @@
 #include <string>
 using namespace std;
 
+// Encapsulation is the the wrapping up of the data and the member factions in a single unit i.e class
+//e.g 
 class teacher
 {
-
-private:
+ // data hiding  is the restriction of access to the data members of a class using access specifiers or methods.
+private: 
     double salary;
 
 public:
