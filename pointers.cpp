@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 // function to change value of x
 void changeA(int *a)
 {
@@ -39,5 +38,13 @@ int main()
     changeA(&x);
     cout << "changed value of x: " << x << endl;
 
+    int arr[] = {1, 2, 3, 4, 5};
+    cout << *(arr + 2) << endl;
+    cout << *(arr + 1) << endl;
+    int *point2;
+    int *point1 = point2 + 2;
+    // point2 is a pointer to point1
+    cout << point1 - point2 << endl; // prints the difference between point1 and point2
     return 0;
+  
 }
