@@ -39,6 +39,9 @@ int main()
     cout << "changed value of x: " << x << endl;
 
     int arr[] = {1, 2, 3, 4, 5};
+    int *arrPtr = arr; // arrPtr points to the first element of the array
+    cout << &arrPtr << endl;
+    cout << &arr << endl; 
     cout << *(arr + 2) << endl;
     cout << *(arr + 1) << endl;
     int *point2;

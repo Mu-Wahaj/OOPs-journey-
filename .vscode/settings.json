@@ -1,8 +1,0 @@
-{
-  "files.associations": {
-    "xstring": "cpp",
-    "iostream": "cpp"
-  },
-  "terminal.integrated.accessibleViewPreserveCursorPosition": false,
-  "terminal.integrated.altClickMovesCursor": true
-}
