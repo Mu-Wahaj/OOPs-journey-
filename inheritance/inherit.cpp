@@ -43,7 +43,7 @@ public:
 
     ~student() // Destructor to free allocated memory
     {
-        cout << "child Destructor called" << endl;
+        cout << "child JDestructor called" << endl;
         delete name; // Free the dynamically allocated memory
         cout << "Memory freed" << endl;
     }
