@@ -7,7 +7,7 @@ using namespace std;
 // There are two types of polymorphism in C++: compile-time (or static) and runtime (or dynamic) polymorphism.
 
 // Compile-time polymorphism is achieved through function overloading and operator overloading.
-// constructors are also example of compile time polymorphism
+// constructors overloading are also example of compile time polymorphism
 
 // function overloading is a feature in C++ that allows you to have multiple functions with the same name but different parameters.
 // The compiler determines which function to call based on the arguments passed to the function.
