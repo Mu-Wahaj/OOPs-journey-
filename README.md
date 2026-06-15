@@ -1,4 +1,4 @@
-# 🚀 OOPs-journey — My Object-Oriented Programming Adventure in C++
+# 🚀 OOPs-journey — Object-Oriented Programming Adventure in C++
 
 Welcome to my OOPs-journey repository!  
 This project captures my personal learning path through **Object-Oriented Programming (OOP)** using C++.  
@@ -65,7 +65,7 @@ This project is licensed under the **MIT License** – you are free to use, modi
 
 **⭐ If you liked this project, don’t forget to star the repo!**  
 It helps me stay motivated and keeps this journey alive.  
-## HAPPY CODING
+## HAPPY CODING ❤❤
 ---
 
 
